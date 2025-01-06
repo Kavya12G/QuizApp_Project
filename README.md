@@ -18,7 +18,8 @@ QuizApp is a ReactJS-based web application that allows users to take assessments
 
 **2. Option Selection:** 
 
-  ○ Users must select an option to enable the "Next" button. If no option is selected, the user cannot proceed to the next question.
+  ○ Users must select an option to enable the "Next" button. 
+  ○ If no option is selected, the user cannot proceed to the next question.
 
 **3. Score Calculation:** 
 
