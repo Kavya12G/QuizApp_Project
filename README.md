@@ -1,9 +1,9 @@
-![Quiz_App](https://github.com/user-attachments/assets/b094f5d5-c6f1-4b9d-9f40-69e2ca97cdeb)**🎯 QuizApp**
-
+**🎯 QuizApp**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 QuizApp is a ReactJS-based web application that allows users to take assessments by solving multiple-choice questions (MCQs). The application ensures a seamless user experience with validations, scoring, and a final result display.
 
 **✨ Features**
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Interactive Quiz: Users can solve MCQs one question at a time.
 
 Option Selection Validation: Users cannot proceed to the next question without selecting an option.
@@ -15,7 +15,7 @@ Final Score Display: Once all questions are answered, users are presented with t
 User-Friendly Interface: The application provides a smooth and intuitive interface for taking quizzes.
 
 **🚀 How It Works**
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Start the Quiz: The quiz begins with the first question displayed on the screen.
 
 Option Selection: Users must select an option to enable the "Next" button. If no option is selected, the user cannot proceed to the next question.
@@ -26,18 +26,18 @@ Final Score: Once the user completes all questions, the application displays the
 
 **🛠️ Technologies Used**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 **ReactJS:** Frontend framework for building the user interface.
 
 **State Management:** Managed using React's useState and useEffect hooks.
 
 **CSS:** For styling the application.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Quiz_App](https://github.com/user-attachments/assets/576ad47d-dce5-4722-8669-19ef9eb06cac)
 
 
 **📋 How to Run the Project**
-
-Clone the repository:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**1. Clone the repository:**
 
 git clone https://github.com/Kavya12G/QuizApp_Project
