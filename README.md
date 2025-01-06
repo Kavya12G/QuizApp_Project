@@ -14,7 +14,7 @@ Final Score Display: Once all questions are answered, users are presented with t
 
 User-Friendly Interface: The application provides a smooth and intuitive interface for taking quizzes.
 
-**🚀 How It Works******
+**🚀 How It Works**
 
 Start the Quiz: The quiz begins with the first question displayed on the screen.
 
@@ -24,7 +24,7 @@ Score Calculation: The score is updated dynamically based on the correctness of 
 
 Final Score: Once the user completes all questions, the application displays the final score out of the total number of questions.
 
-**🛠️ Technologies Used******
+**🛠️ Technologies Used**
 
 ReactJS: Frontend framework for building the user interface.
 
